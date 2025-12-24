@@ -1,6 +1,6 @@
 #https://www.acmicpc.net/problem/1063
 
-#정말 무식하게 풀었다...
+#정말 무식하게 풀었다... 처음엔 numpy썼다가 제출하니 라이브러리 못찾는 에러떠서 그냥 리스트로풀음. 라이브러리 금지 문제였던듯함.
 
 def chess():
     king_first, stone_first, frames = input().split()
