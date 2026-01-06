@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/status?user_id=aighost1&problem_id=13251&from_mine=1
+# https://www.acmicpc.net/problem/13251
 
 # combination을 사용해야 풀 수 있는 문제이다.
 # combination은 nCr = n! / r! * (n-r)! 인데, 이건 까먹을 확률이 높다.
